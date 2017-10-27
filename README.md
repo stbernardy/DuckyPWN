@@ -1,9 +1,9 @@
                                                                                                                        
-    ____  __  __________ ____  ______ _       ___   __
-   / __ \/ / / / ____/ //_/\ \/ / __ \ |     / / | / /
-  / / / / / / / /   / ,<    \  / /_/ / | /| / /  |/ / 
- / /_/ / /_/ / /___/ /| |   / / ____/| |/ |/ / /|  /  
-/_____/\____/\____/_/ |_|  /_/_/     |__/|__/_/ |_/   
+#    ____  __  __________ ____  ______ _       ___   __
+ #  / __ \/ / / / ____/ //_/\ \/ / __ \ |     / / | / /
+  #/ / / / / / / /   / ,<    \  / /_/ / | /| / /  |/ / 
+ #/ /_/ / /_/ / /___/ /| |   / / ____/| |/ |/ / /|  /  
+#/_____/\____/\____/_/ |_|  /_/_/     |__/|__/_/ |_/   
                                                       
                                                                                                                
 This payload will allow an attacker to reset a users password from the USB Rubber Ducky. For Windows, you will need to insert the username of the victim into the file. For Linux, it changes the root password.... if that account is not disabled.
