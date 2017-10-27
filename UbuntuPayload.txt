@@ -1,0 +1,14 @@
+REM Reseting Pasword on Ubuntu
+
+CTRL ALT DELETE
+STRING reboot
+DELAY 10000
+SHIFT
+ENTER
+ENTER
+STRING mount -o rw,remount /
+STRING passwd root
+STRING password
+STRING password
+
+REM Might not work on DELAY 10000, will need to test
