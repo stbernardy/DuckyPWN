@@ -21,5 +21,6 @@ The target user is "root" and the new password will be "password".
 Using Duckyencoder:
 
 Run this command in your terminal (Mac or Linux). Usually the path is /media/sda1 or /media/sda2 
+---------------------------------------------------------------------------------------------------------------------
 
 java -jar duckencoder.jar -i FILENAME.txt -o /PATH/TO/SD/CARD
